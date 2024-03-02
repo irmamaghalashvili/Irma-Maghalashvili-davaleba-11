@@ -148,3 +148,6 @@ let words = ['Madrid', 'rome', 'Milan', 'berlin'];
 // filter მეთოდის საშუალებით დააბრუნეთ მასივი, რომელიც შედგება ისეთი სიტყვებისგან რომელიც შეიცავს ასო m-ს ან M-ს;
 let newWords = words.filter(item => item.toLowerCase().indexOf('m') >= 0);
 console.log(newWords);
+
+
+
